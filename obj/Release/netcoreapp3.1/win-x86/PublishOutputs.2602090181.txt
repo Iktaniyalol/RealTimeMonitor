@@ -1,0 +1,2 @@
+C:\Users\ilone\Desktop\ucheba\Системы реального времени\RealTimeMonitor\bin\Release\netcoreapp3.1\publish\RealTimeMonitor.pdb
+C:\Users\ilone\Desktop\ucheba\Системы реального времени\RealTimeMonitor\bin\Release\netcoreapp3.1\publish\RealTimeMonitor.exe
